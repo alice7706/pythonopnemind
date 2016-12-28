@@ -1,0 +1,3 @@
+Pay attention! I said pay attention!
+You have been running script with just the name of the script.
+but now that you're using  argv.
