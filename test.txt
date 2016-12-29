@@ -1,1 +1,5 @@
-"this is a test file." 
+this is a test file.
+because of the swimming, i feel a little bit of tire.
+when this exercise ends, i'll have a rest.
+then i'm going to know some about github.
+
