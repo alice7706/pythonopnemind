@@ -1,3 +1,13 @@
-# pythonopnemind
-# 2016年12月28日，python小白，github小白。很多东西完全不懂。根据实际任务，一步一步，一个问题一个问题的解决。对于后面的学习不知道自己能不能做到。
-# 走一步，看一步吧。放在实际环境中，根据任务来推进自己的学习，期待这样不同的学习方式，想观察一下效果。
+# python课前预习练习
+A first level Header
+===================
+A second level Header
+--------------------
+
+Now is the time for all good men to come to the aid of their country.
+
+this is second line?
+### really! It is second line
+>This is a blockquote.
+>
+>This is the second paragraph in the blockquote
